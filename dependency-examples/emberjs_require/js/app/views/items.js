@@ -1,5 +1,5 @@
 define('app/views/items', [
-		'text!app/templates/items.html',
+		'text',
 		'ember'
 	],
 	/**

@@ -1,5 +1,5 @@
 define('app/views/filters', [
-		'text!app/templates/filters.html',
+		'text',
 		'ember'
 	],
 	/**

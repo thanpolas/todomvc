@@ -1,5 +1,5 @@
 define('app/views/clear_button', [
-		'text!app/templates/clear_button.html',
+		'text',
 		'ember'
 	],
 	/**

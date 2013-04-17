@@ -1,5 +1,5 @@
 define('app/views/stats', [
-		'text!app/templates/stats.html',
+		'text',
 		'ember'
 	],
 	/**
